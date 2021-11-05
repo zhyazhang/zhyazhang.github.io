@@ -1,2 +1,2 @@
-# glutinousriceball.github.io
+# metaword.github.io
 Website
